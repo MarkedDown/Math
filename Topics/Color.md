@@ -32,6 +32,8 @@ $\textrm{A red \color{Red} word\color{white}.}$
 $\textrm{A red \color{Red} word\color{white}.}$
 ```
 
+<br>
+
 ### TextColor
 
 $\textrm{A red \textcolor{Red}{word}.}$
