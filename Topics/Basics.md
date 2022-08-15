@@ -16,6 +16,12 @@
 $<Ｌａｔｅｘ　Ｃｏｎｔｅｎｔ>$
 ```
 
+```Markdown
+$x = 1 + a$
+```
+
+$x = 1 + a$
+
 <br>
 <br>
 
@@ -29,10 +35,16 @@ $$<
 >$$
 ```
 
+```Markdown
+$$x = 1 + a$$
+```
+
+$$x = 1 + a$$
+
 <br>
 <br>
 
-## Math Block
+## Math Block   <kbd>  At the time of writing, this is broken.  </kbd>
 
 *Code block with the `math` type.*
 
@@ -41,6 +53,16 @@ $$<
 <Ｌａｔｅｘ　Ｃｏｎｔｅｎｔ>
 ```
 ````
+
+````Markdown
+```math
+x = 1 + a
+```
+````
+
+```math
+x = 1 + a
+```
 
 <br>
 
