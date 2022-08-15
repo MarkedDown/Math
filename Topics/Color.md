@@ -16,21 +16,39 @@
 
 ### Basic
 
-A red $\color{Red} word.$
+A red $\color{Red} word\color{white}.$
 
 ```Markdown
-A red $\color{Red} word.$
+A red $\color{Red} word\color{white}.$
 ```
 
 <br>
 
 ### Normalized
 
-$\textrm{A red \color{Red} word}.$
+$\textrm{A red \color{Red} word\color{white}.}$
 
 ```Markdown
-$\textrm{A red \color{Red} word}.$
+$\textrm{A red \color{Red} word\color{white}.}$
 ```
+
+### TextColor
+
+$\textrm{A red \textcolor{Red}{word}.}$
+
+```Markdown
+$\textrm{A red \textcolor{Red}{word}.}$
+```
+
+<br>
+
+### Custom Color
+
+```Markdown
+$\definecolor{TestColor1}{RGB}{0,169,143}
+```
+
+$\definecolor{TestColor1}{RGB}{0,169,143}\color{TestColor1} TestColor1$
 
 <br>
 <br>
@@ -38,6 +56,8 @@ $\textrm{A red \color{Red} word}.$
 <div align = center>
 
 ## Standard Colors
+  
+<br>
 
 <kbd>  <br>   $\large\bf\color{black} black$   <br>  </kbd>  
 <kbd>  <br>   $\large\bf\color{gray} gray$   <br>  </kbd>  
@@ -66,6 +86,8 @@ $\textrm{A red \color{Red} word}.$
 <br>
   
 ## Dvips Colors
+
+<br>
   
 <kbd>  <br>   $\large\bf\color{Apricot} Apricot$   <br>  </kbd>  
 <kbd>  <br>   $\large\bf\color{Blue} Blue$   <br>  </kbd>  
@@ -143,6 +165,6 @@ $\textrm{A red \color{Red} word}.$
 <kbd>  <br>   $\large\bf\color{White} White$   <br>  </kbd>  
 <kbd>  <br>   $\large\bf\color{YellowOrange} YellowOrange$   <br>  </kbd>  
 
-  
 </div>
 
+<br>
