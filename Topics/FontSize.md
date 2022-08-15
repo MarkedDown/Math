@@ -7,71 +7,17 @@
 
 ## Sizes
 
+*The **relevant** LaTeX size modifiers.*
+
+<br>
+
 | Preview | Syntax |
-|:-------:|:------:|
+|:-------:|:-------|
 | $\tiny Text$ | `\tiny Text`
-
--   $\tiny Text$ ```\tiny Text```
-
-    ```LaTeX
-    \tiny Text
-    ```
-    
-    <br>
-
--   $\small Text$
-
-    ```LaTeX
-    \small Text
-    ```
-    
-    <br>
-
--   $\normalsize Text$
-
-    ```LaTeX
-    \normalsize Text
-    ```
-    
-    <br>
-
--   $\large Text$
-
-    ```LaTeX
-    \large Text
-    ```
-    
-    <br>
-
--   $\Large Text$
-
-    ```LaTeX
-    \Large Text
-    ```
-    
-    <br>
-
--   $\LARGE Text$
-
-    ```LaTeX
-    \LARGE Text
-    ```
-    
-    <br>
-
--   $\huge Text$
-
-    ```LaTeX
-    \huge Text
-    ```
-    
-    <br>
-
--   $\Huge Text$
-
-    ```LaTeX
-    \Huge Text
-    ```
+| $\small Text$ | `\small Text`
+| $\normalsize Text$ | `\normalsize Text`
+| $\large Text$ | `\large Text`
+| $\huge Text$ | `\huge Text`
     
 <br>
 
