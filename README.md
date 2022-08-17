@@ -14,11 +14,11 @@
 
 <br>
 
-[![Badge Basics]][Basics] 
-[![Badge Color]][Color] 
+[![Badge Basics]][Basics]  
+[![Badge Color]][Color]  
 [![Badge FontSize]][FontSize]
 
-[![Badge Symbols]][Symbols] 
+[![Badge Symbols]][Symbols]  
 
 </div>
 
