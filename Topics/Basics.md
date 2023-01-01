@@ -44,7 +44,7 @@ $$x = 1 + a$$
 <br>
 <br>
 
-## Math Block   <kbd>  At the time of writing, this is broken.  </kbd>
+## Math Block 
 
 *Code block with the `math` type.*
 
