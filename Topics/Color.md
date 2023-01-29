@@ -24,22 +24,22 @@ A red $\color{Red} word\color{white}.$
 
 <br>
 
-### Normalized
+### Monospace
 
-$\textrm{A red \color{Red} word\color{white}.}$
+$\texttt{A red \color{Red}word\color{white}.}$
 
 ```Markdown
-$\textrm{A red \color{Red} word\color{white}.}$
+$\texttt{A red \color{Red}word\color{white}.}$
 ```
 
 <br>
 
 ### TextColor
 
-$\textrm{A red \textcolor{Red}{word}.}$
+$\texttt{A red \textcolor{Red}{word}.}$
 
 ```Markdown
-$\textrm{A red \textcolor{Red}{word}.}$
+$\texttt{A red \textcolor{Red}{word}.}$
 ```
 
 <br>
